@@ -1,0 +1,17 @@
+NATTIE-THEME_WELCOME_MESSAGE: "Education to Empower Africa!"
+NATTIE_PRIMARY_COLOR: "#900c3f" # maroon
+
+# Footer links are dictionaries with a "title" and "url"
+# To remove all links, write:
+# INDIGO_FOOTER_NAV_LINKS: []
+# INDIGO_FOOTER_LEGAL_LINKS: []
+NATTIE-THEME_FOOTER_NAV_LINKS:
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+NATTIE-THEME_FOOTER_LEGAL_LINKS:
+  - title: "Terms of service"
+    url: "/tos"
+  - title: "Education to Empower Africa!"
+    url: "https://fundiacademy.com"
